@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Char_Select_Btn
+  - Start_Btn
+  - Game_Mode_tag
+  - P2_Banner
+  - Back_Btn
+  - platform
+  - Player1
+  - Player2
+  - P1_Spawn
+  - P2_Spawn
+  - Blastzone
+  - P1_Shield
+  - P2_Shield
+  - jumpZone
+  - Hoop
+  - AIWalkStop
+  - bomb1
+  - bomb2
+  - cpuDiff
+  - DPS1
+  - DPS2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - projectiles
+  - Player1
+  - Player2
+  - blast Zones
+  - h_box
+  - fallingPlayer1
+  - fallingPlayer2
+  - platform
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Backerground
+    uniqueID: 1348218253
+    locked: 0
+  - name: Background
+    uniqueID: 3405104325
+    locked: 0
+  - name: BG+
+    uniqueID: 3751970651
+    locked: 0
+  - name: fg-1
+    uniqueID: 4016008147
+    locked: 0
+  - name: foreground0
+    uniqueID: 1006357965
+    locked: 0
+  - name: Foreground
+    uniqueID: 1706240243
+    locked: 0
+  - name: Forerground
+    uniqueID: 1945756537
+    locked: 0
+  - name: Player
+    uniqueID: 3699046489
+    locked: 0
+  - name: Shield
+    uniqueID: 1074485079
+    locked: 0

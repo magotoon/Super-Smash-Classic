@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/TitleScreen.unity
+    guid: 46d8334af33bc7a4e838daa05fe00686
+  - enabled: 1
+    path: Assets/Scenes/CharacterSelect.unity
+    guid: f5205e69560785c458e5c09245fde229
+  - enabled: 0
+    path: Assets/Scenes/Fight.unity
+    guid: 646145f9470f40d488572391bceda4bc
+  - enabled: 1
+    path: Assets/Scenes/StageSelect.unity
+    guid: 957a7d855058b8143877848cfec75617
+  - enabled: 1
+    path: Assets/Scenes/ControlSetup.unity
+    guid: 2491fdfe1b496e84c96ecbe47da64f88
+  - enabled: 1
+    path: Assets/Scenes/FightScene.unity
+    guid: dae53651391a3f041a1d2856f4fbcac4
+  - enabled: 1
+    path: Assets/Scenes/Player2Wins.unity
+    guid: fbd7feaaa9d4fde49a7b7a7205910877
+  - enabled: 1
+    path: Assets/Scenes/Player1Wins.unity
+    guid: 4326881c2b74cc244bfe602b8bc0ac04
+  - enabled: 1
+    path: Assets/Scenes/AIWins.unity
+    guid: ffb6448969a42a94fa3018ff70117d7c
+  - enabled: 1
+    path: Assets/Scenes/Settings.unity
+    guid: 577355e4c99c1624da7747f1272effca

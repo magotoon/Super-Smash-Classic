@@ -1,0 +1,268 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f66ab67005225c04e98f70452ca48165, type: 3}
+  m_Name: KeyBindings
+  m_EditorClassIdentifier: 
+  inputs:
+  - Name: P1_Horizontal
+    UniqueName: P1_hor_key
+    Type: 0
+    Positive:
+      Primary: 100
+      Secondary: 0
+    Negative:
+      Primary: 97
+      Secondary: 0
+    targetController: 0
+    Axis: 0
+    Invert: 0
+    Sensitivity: 1
+    val: 0
+  - Name: P1_Horizontal
+    UniqueName: 
+    Type: 2
+    Positive:
+      Primary: 100
+      Secondary: 0
+    Negative:
+      Primary: 97
+      Secondary: 0
+    targetController: 1
+    Axis: 0
+    Invert: 0
+    Sensitivity: 1
+    val: 0
+  - Name: P1_Vertical
+    UniqueName: P1_ver_key
+    Type: 0
+    Positive:
+      Primary: 119
+      Secondary: 0
+    Negative:
+      Primary: 115
+      Secondary: 0
+    targetController: 0
+    Axis: 0
+    Invert: 0
+    Sensitivity: 1
+    val: 0
+  - Name: P1_Vertical
+    UniqueName: 
+    Type: 2
+    Positive:
+      Primary: 119
+      Secondary: 0
+    Negative:
+      Primary: 115
+      Secondary: 0
+    targetController: 1
+    Axis: 1
+    Invert: 0
+    Sensitivity: 1
+    val: 0
+  - Name: P1_Attack
+    UniqueName: P1_att
+    Type: 0
+    Positive:
+      Primary: 351
+      Secondary: 0
+    Negative:
+      Primary: 0
+      Secondary: 0
+    targetController: 0
+    Axis: 0
+    Invert: 0
+    Sensitivity: 1
+    val: 0
+  - Name: P1_Special
+    UniqueName: P1_sp
+    Type: 0
+    Positive:
+      Primary: 350
+      Secondary: 0
+    Negative:
+      Primary: 0
+      Secondary: 0
+    targetController: 0
+    Axis: 0
+    Invert: 0
+    Sensitivity: 1
+    val: 0
+  - Name: P1_Jump
+    UniqueName: P1_jmp
+    Type: 0
+    Positive:
+      Primary: 352
+      Secondary: 353
+    Negative:
+      Primary: 0
+      Secondary: 0
+    targetController: 0
+    Axis: 0
+    Invert: 0
+    Sensitivity: 1
+    val: 0
+  - Name: P1_Shield
+    UniqueName: P1_shield
+    Type: 0
+    Positive:
+      Primary: 354
+      Secondary: 355
+    Negative:
+      Primary: 0
+      Secondary: 0
+    targetController: 1
+    Axis: 2
+    Invert: 0
+    Sensitivity: 1
+    val: 0
+  - Name: P2_Horizontal
+    UniqueName: P2_hor_key
+    Type: 0
+    Positive:
+      Primary: 275
+      Secondary: 0
+    Negative:
+      Primary: 276
+      Secondary: 0
+    targetController: 0
+    Axis: 0
+    Invert: 0
+    Sensitivity: 1
+    val: 0
+  - Name: P2_Horizontal
+    UniqueName: 
+    Type: 2
+    Positive:
+      Primary: 0
+      Secondary: 0
+    Negative:
+      Primary: 0
+      Secondary: 0
+    targetController: 2
+    Axis: 0
+    Invert: 0
+    Sensitivity: 1
+    val: 0
+  - Name: P2_Vertical
+    UniqueName: P2_ver_key
+    Type: 0
+    Positive:
+      Primary: 273
+      Secondary: 0
+    Negative:
+      Primary: 274
+      Secondary: 0
+    targetController: 0
+    Axis: 0
+    Invert: 0
+    Sensitivity: 1
+    val: 0
+  - Name: P2_Vertical
+    UniqueName: 
+    Type: 2
+    Positive:
+      Primary: 0
+      Secondary: 0
+    Negative:
+      Primary: 0
+      Secondary: 0
+    targetController: 2
+    Axis: 1
+    Invert: 0
+    Sensitivity: 1
+    val: 0
+  - Name: P2_Attack
+    UniqueName: P2_att
+    Type: 0
+    Positive:
+      Primary: 371
+      Secondary: 0
+    Negative:
+      Primary: 0
+      Secondary: 0
+    targetController: 0
+    Axis: 0
+    Invert: 0
+    Sensitivity: 1
+    val: 0
+  - Name: P2_Special
+    UniqueName: P2_sp
+    Type: 0
+    Positive:
+      Primary: 370
+      Secondary: 0
+    Negative:
+      Primary: 0
+      Secondary: 0
+    targetController: 0
+    Axis: 0
+    Invert: 0
+    Sensitivity: 1
+    val: 0
+  - Name: P2_Jump
+    UniqueName: P2_jmp
+    Type: 0
+    Positive:
+      Primary: 372
+      Secondary: 373
+    Negative:
+      Primary: 0
+      Secondary: 0
+    targetController: 0
+    Axis: 0
+    Invert: 0
+    Sensitivity: 1
+    val: 0
+  - Name: P2_Shield
+    UniqueName: P2_shield
+    Type: 0
+    Positive:
+      Primary: 374
+      Secondary: 375
+    Negative:
+      Primary: 0
+      Secondary: 0
+    targetController: 0
+    Axis: 0
+    Invert: 0
+    Sensitivity: 1
+    val: 0
+  - Name: Pause
+    UniqueName: Pause
+    Type: 0
+    Positive:
+      Primary: 337
+      Secondary: 339
+    Negative:
+      Primary: 0
+      Secondary: 0
+    targetController: 0
+    Axis: 0
+    Invert: 0
+    Sensitivity: 1
+    val: 0
+  - Name: Pause
+    UniqueName: 
+    Type: 0
+    Positive:
+      Primary: 27
+      Secondary: 0
+    Negative:
+      Primary: 0
+      Secondary: 0
+    targetController: 0
+    Axis: 0
+    Invert: 0
+    Sensitivity: 1
+    val: 0
+  rebindRemoveKey: 27
+  forceResetInEditor: 0

@@ -1,0 +1,1642 @@
+fileFormatVersion: 2
+guid: c716fff6832382d4b94999c40597edc9
+timeCreated: 1552438397
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MarioMoves_0
+    21300002: MarioMoves_1
+    21300004: MarioMoves_2
+    21300006: MarioMoves_3
+    21300008: MarioMoves_4
+    21300010: MarioMoves_5
+    21300012: MarioMoves_6
+    21300014: MarioMoves_7
+    21300016: MarioMoves_8
+    21300018: MarioMoves_9
+    21300020: MarioMoves_10
+    21300022: MarioMoves_11
+    21300024: MarioMoves_12
+    21300026: MarioMoves_13
+    21300028: MarioMoves_14
+    21300030: MarioMoves_15
+    21300032: MarioMoves_16
+    21300034: MarioMoves_17
+    21300036: MarioMoves_18
+    21300038: MarioMoves_19
+    21300040: MarioMoves_20
+    21300042: MarioMoves_21
+    21300044: MarioMoves_22
+    21300046: MarioMoves_23
+    21300048: MarioMoves_24
+    21300050: MarioMoves_25
+    21300052: MarioMoves_26
+    21300054: MarioMoves_27
+    21300056: MarioMoves_28
+    21300058: MarioMoves_29
+    21300060: MarioMoves_30
+    21300062: MarioMoves_31
+    21300064: MarioMoves_32
+    21300066: MarioMoves_33
+    21300068: MarioMoves_34
+    21300070: MarioMoves_35
+    21300072: MarioMoves_36
+    21300074: MarioMoves_37
+    21300076: MarioMoves_38
+    21300078: MarioMoves_39
+    21300080: MarioMoves_40
+    21300082: MarioMoves_41
+    21300084: MarioMoves_42
+    21300086: MarioMoves_43
+    21300088: MarioMoves_44
+    21300090: MarioMoves_45
+    21300092: MarioMoves_46
+    21300094: MarioMoves_47
+    21300096: MarioMoves_48
+    21300098: MarioMoves_49
+    21300100: MarioMoves_50
+    21300102: MarioMoves_51
+    21300104: MarioMoves_52
+    21300106: MarioMoves_53
+    21300108: MarioMoves_54
+    21300110: MarioMoves_55
+    21300112: MarioMoves_56
+    21300114: MarioMoves_57
+    21300116: MarioMoves_58
+    21300118: MarioMoves_59
+    21300120: MarioMoves_60
+    21300122: MarioMoves_61
+    21300124: MarioMoves_62
+    21300126: MarioMoves_63
+    21300128: MarioMoves_64
+    21300130: MarioMoves_65
+    21300132: MarioMoves_66
+    21300134: MarioMoves_67
+    21300136: MarioMoves_68
+    21300138: MarioMoves_69
+    21300140: MarioMoves_70
+    21300142: MarioMoves_71
+    21300144: MarioMoves_72
+    21300146: MarioMoves_73
+    21300148: MarioMoves_74
+    21300150: MarioMoves_75
+    21300152: MarioMoves_76
+    21300154: MarioMoves_77
+    21300156: MarioMoves_78
+    21300158: MarioMoves_79
+    21300160: MarioMoves_80
+    21300162: MarioMoves_81
+    21300164: MarioMoves_82
+    21300166: MarioMoves_83
+    21300168: MarioMoves_84
+    21300170: MarioMoves_85
+    21300172: MarioMoves_86
+    21300174: MarioMoves_87
+    21300176: MarioMoves_88
+    21300178: MarioMoves_89
+    21300180: MarioMoves_90
+    21300182: MarioMoves_91
+    21300184: MarioMoves_92
+    21300186: MarioMoves_93
+    21300188: MarioMoves_94
+    21300190: MarioMoves_95
+    21300192: MarioMoves_96
+    21300194: MarioMoves_97
+    21300196: MarioMoves_98
+    21300198: MarioMoves_99
+    21300200: MarioMoves_100
+    21300202: MarioMoves_101
+    21300204: MarioMoves_102
+    21300206: MarioMoves_103
+    21300208: MarioMoves_104
+    21300210: MarioMoves_105
+    21300212: MarioMoves_106
+    21300214: MarioMoves_107
+    21300216: MarioMoves_108
+    21300218: MarioMoves_109
+    21300220: MarioMoves_110
+    21300222: MarioMoves_111
+    21300224: MarioMoves_112
+    21300226: MarioMoves_113
+    21300228: MarioMoves_114
+    21300230: MarioMoves_115
+    21300232: MarioMoves_116
+    21300234: MarioMoves_117
+    21300236: MarioMoves_118
+    21300238: MarioMoves_119
+    21300240: MarioMoves_120
+    21300242: MarioMoves_121
+    21300244: MarioMoves_122
+    21300246: MarioMoves_123
+    21300248: MarioMoves_124
+    21300250: MarioMoves_125
+    21300252: MarioMoves_126
+    21300254: MarioMoves_127
+    21300256: MarioMoves_128
+    21300258: MarioMoves_129
+    21300260: MarioMoves_130
+    21300262: MarioMoves_131
+    21300264: MarioMoves_132
+    21300266: MarioMoves_133
+    21300268: MarioMoves_134
+    21300270: MarioMoves_135
+    21300272: MarioMoves_136
+    21300274: MarioMoves_137
+    21300276: MarioMoves_138
+    21300278: MarioMoves_139
+    21300280: MarioMoves_140
+    21300282: MarioMoves_141
+    21300284: MarioMoves_142
+    21300286: MarioMoves_143
+    21300288: MarioMoves_144
+    21300290: MarioMoves_145
+    21300292: MarioMoves_146
+    21300294: MarioMoves_147
+    21300296: MarioMoves_148
+    21300298: MarioMoves_149
+    21300300: MarioMoves_150
+    21300302: MarioMoves_151
+    21300304: MarioMoves_152
+    21300306: MarioMoves_153
+    21300308: MarioMoves_154
+    21300310: MarioMoves_155
+    21300312: MarioMoves_156
+    21300314: MarioMoves_157
+    21300316: MarioMoves_158
+    21300318: MarioMoves_159
+    21300320: MarioMoves_160
+    21300322: MarioMoves_161
+    21300324: MarioMoves_162
+    21300326: MarioMoves_163
+    21300328: MarioMoves_164
+    21300330: MarioMoves_165
+    21300332: MarioMoves_166
+    21300334: MarioMoves_167
+    21300336: MarioMoves_168
+    21300338: MarioMoves_169
+    21300340: MarioMoves_170
+    21300342: MarioMoves_171
+    21300344: MarioMoves_172
+    21300346: MarioMoves_173
+    21300348: MarioMoves_174
+    21300350: MarioMoves_175
+    21300352: MarioMoves_176
+    21300354: MarioMoves_177
+    21300356: MarioMoves_178
+    21300358: MarioMoves_179
+    21300360: MarioMoves_180
+    21300362: MarioMoves_181
+    21300364: MarioMoves_182
+    21300366: MarioMoves_183
+    21300368: MarioMoves_184
+    21300370: MarioMoves_185
+    21300372: MarioMoves_186
+    21300374: MarioMoves_187
+    21300376: MarioMoves_188
+    21300378: MarioMoves_189
+    21300380: MarioMoves_190
+    21300382: MarioMoves_191
+    21300384: MarioMoves_192
+    21300386: MarioMoves_193
+    21300388: MarioMoves_194
+    21300390: MarioMoves_195
+    21300392: MarioMoves_196
+    21300394: MarioMoves_197
+    21300396: MarioMoves_198
+    21300398: MarioMoves_199
+    21300400: MarioMoves_200
+    21300402: MarioMoves_201
+    21300404: MarioMoves_202
+    21300406: MarioMoves_203
+    21300408: MarioMoves_204
+    21300410: MarioMoves_205
+    21300412: MarioMoves_206
+    21300414: MarioMoves_207
+    21300416: MarioMoves_208
+    21300418: MarioMoves_209
+    21300420: MarioMoves_210
+    21300422: MarioMoves_211
+    21300424: MarioMoves_212
+    21300426: MarioMoves_213
+    21300428: MarioMoves_214
+    21300430: MarioMoves_215
+    21300432: MarioMoves_216
+    21300434: MarioMoves_217
+    21300436: MarioMoves_218
+    21300438: MarioMoves_219
+    21300440: MarioMoves_220
+    21300442: MarioMoves_221
+    21300444: MarioMoves_222
+    21300446: MarioMoves_223
+    21300448: MarioMoves_224
+    21300450: MarioMoves_225
+    21300452: MarioMoves_226
+    21300454: MarioMoves_227
+    21300456: MarioMoves_228
+    21300458: MarioMoves_229
+    21300460: MarioMoves_230
+    21300462: MarioMoves_231
+    21300464: MarioMoves_232
+    21300466: MarioMoves_233
+    21300468: MarioMoves_234
+    21300470: MarioMoves_235
+    21300472: MarioMoves_236
+    21300474: MarioMoves_237
+    21300476: MarioMoves_238
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MarioMoves_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 475
+        width: 30
+        height: 23
+      alignment: 9
+      pivot: {x: 0.813246, y: 0.4596531}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 476
+        width: 32
+        height: 23
+      alignment: 9
+      pivot: {x: 0.825788, y: 0.42977506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 476
+        width: 29
+        height: 33
+      alignment: 9
+      pivot: {x: 0.78860474, y: 0.28476876}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_3
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 473
+        width: 15
+        height: 43
+      alignment: 9
+      pivot: {x: 0.6076787, y: 0.29366854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_4
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 473
+        width: 27
+        height: 38
+      alignment: 9
+      pivot: {x: 0.34228912, y: 0.32458094}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_5
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 473
+        width: 32
+        height: 26
+      alignment: 9
+      pivot: {x: 0.29351425, y: 0.40661737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 473
+        width: 32
+        height: 26
+      alignment: 9
+      pivot: {x: 0.29810286, y: 0.38967544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_7
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 472
+        width: 30
+        height: 23
+      alignment: 9
+      pivot: {x: 0.7088562, y: 0.64698595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_8
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 473
+        width: 32
+        height: 23
+      alignment: 9
+      pivot: {x: 0.7178898, y: 0.62526804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_9
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 473
+        width: 32
+        height: 23
+      alignment: 9
+      pivot: {x: 0.28136635, y: 0.63797396}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_10
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 472
+        width: 30
+        height: 23
+      alignment: 9
+      pivot: {x: 0.28547972, y: 0.6480222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_11
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 453
+        width: 16
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42777956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_12
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 453
+        width: 16
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36341488}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_13
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 453
+        width: 16
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32595825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_14
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 453
+        width: 16
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28904024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_15
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 453
+        width: 16
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2608412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_16
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 453
+        width: 16
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23325399}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_17
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 453
+        width: 16
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.215}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_18
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 453
+        width: 16
+        height: 53
+      alignment: 9
+      pivot: {x: 0.4874344, y: 0.19982737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_19
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 453
+        width: 16
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1806207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_20
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 453
+        width: 16
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5, y: 0.17212164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_21
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 453
+        width: 16
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16453059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_22
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 453
+        width: 16
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15212217}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_23
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 453
+        width: 17
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15499258}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_24
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 453
+        width: 17
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15499258}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_25
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 453
+        width: 16
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52062833}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_26
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 453
+        width: 16
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49040005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_39
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 334
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_40
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 325
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.27761963, y: 0.48630634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_41
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 325
+        width: 26
+        height: 28
+      alignment: 9
+      pivot: {x: 0.3156668, y: 0.47261265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_42
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 325
+        width: 25
+        height: 28
+      alignment: 9
+      pivot: {x: 0.76072264, y: 0.48630634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_43
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 326
+        width: 26
+        height: 28
+      alignment: 9
+      pivot: {x: 0.6917067, y: 0.47261265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_44
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 346
+        width: 29
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_45
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 346
+        width: 16
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_46
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 346
+        width: 29
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_47
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 346
+        width: 16
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_48
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 305
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_49
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 305
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_50
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 336
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_51
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 335
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_52
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 336
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_53
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 336
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_54
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 306
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_55
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 306
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_56
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 306
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_57
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 305
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_58
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 305
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_59
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 307
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_68
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 283
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_69
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 289
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_70
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 281
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_91
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 262
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_92
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 258
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_112
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 238
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_113
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 236
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_124
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 227
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_125
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 168
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_126
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 169
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_127
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 169
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_130
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 192
+        width: 13
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_131
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 158
+        width: 16
+        height: 42
+      alignment: 9
+      pivot: {x: 0.42390823, y: 0.28984287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_132
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 158
+        width: 27
+        height: 37
+      alignment: 9
+      pivot: {x: 0.28581634, y: 0.3372708}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_133
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 174
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_134
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 161
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_135
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 170
+        width: 31
+        height: 22
+      alignment: 9
+      pivot: {x: 0.720078, y: 0.70077586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_138
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 159
+        width: 30
+        height: 23
+      alignment: 9
+      pivot: {x: 0.76378375, y: 0.4234659}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_139
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 160
+        width: 32
+        height: 23
+      alignment: 9
+      pivot: {x: 0.7663202, y: 0.3837665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_140
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 160
+        width: 29
+        height: 33
+      alignment: 9
+      pivot: {x: 0.7623838, y: 0.30436614}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_141
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 157
+        width: 32
+        height: 26
+      alignment: 9
+      pivot: {x: 0.22416878, y: 0.46825585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_142
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 157
+        width: 32
+        height: 26
+      alignment: 9
+      pivot: {x: 0.20514488, y: 0.4799623}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_143
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 153
+        width: 29
+        height: 36
+      alignment: 9
+      pivot: {x: 0.2572737, y: 0.36583456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_144
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 152
+        width: 16
+        height: 41
+      alignment: 9
+      pivot: {x: 0.39873886, y: 0.31688932}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_145
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 153
+        width: 31
+        height: 35
+      alignment: 9
+      pivot: {x: 0.68211514, y: 0.333718}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_176
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 73
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_177
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 79
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_178
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 73
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_179
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 74
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_180
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 73
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_181
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 75
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_182
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 77
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_183
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 77
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_184
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 78
+        width: 18
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_185
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 68
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_186
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 68
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_187
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 68
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_188
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 68
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_189
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 74
+        width: 26
+        height: 29
+      alignment: 9
+      pivot: {x: 0.71270984, y: 0.4892007}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_190
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 75
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_191
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 74
+        width: 26
+        height: 29
+      alignment: 9
+      pivot: {x: 0.3520273, y: 0.48090914}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_192
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 73
+        width: 16
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5150299, y: 0.47261837}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_193
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 69
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_194
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 69
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_27
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 161
+        width: 16
+        height: 46
+      alignment: 9
+      pivot: {x: 0.4495716, y: 0.30416772}
+      border: {x: 0, y: 0, z: 0, w: 1}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MarioMoves_28
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 170
+        width: 16
+        height: 22
+      alignment: 9
+      pivot: {x: 0.4691019, y: 0.70223165}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

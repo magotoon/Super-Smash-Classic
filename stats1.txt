@@ -1,0 +1,7 @@
+number of jumps taken: 86
+Number of air attacks made: 15
+Number of ground attacks made: 244
+Amount of time airborne: 5.399258
+Match total time: 0
+Peak Damage Taken: 0
+

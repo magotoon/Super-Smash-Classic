@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smash Classic", "Smash Classic.csproj", "{614FE24E-D0F3-07FF-3EA7-38D8350EB937}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smash Classic.Editor", "Smash Classic.Editor.csproj", "{F9C2AA41-4684-6EB1-2C9C-DB8A3D74F6AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{614FE24E-D0F3-07FF-3EA7-38D8350EB937}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{614FE24E-D0F3-07FF-3EA7-38D8350EB937}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{614FE24E-D0F3-07FF-3EA7-38D8350EB937}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{614FE24E-D0F3-07FF-3EA7-38D8350EB937}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9C2AA41-4684-6EB1-2C9C-DB8A3D74F6AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9C2AA41-4684-6EB1-2C9C-DB8A3D74F6AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9C2AA41-4684-6EB1-2C9C-DB8A3D74F6AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9C2AA41-4684-6EB1-2C9C-DB8A3D74F6AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

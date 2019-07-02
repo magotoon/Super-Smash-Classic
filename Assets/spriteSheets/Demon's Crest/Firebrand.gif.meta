@@ -1,0 +1,1857 @@
+fileFormatVersion: 2
+guid: b43f30447474cd84686a1f9135fff832
+timeCreated: 1547095304
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Firebrand_0
+    21300002: Firebrand_1
+    21300004: Firebrand_2
+    21300006: Firebrand_3
+    21300008: Firebrand_4
+    21300010: Firebrand_5
+    21300012: Firebrand_6
+    21300014: Firebrand_7
+    21300016: Firebrand_8
+    21300018: Firebrand_9
+    21300020: Firebrand_10
+    21300022: Firebrand_11
+    21300024: Firebrand_12
+    21300026: Firebrand_13
+    21300028: Firebrand_14
+    21300030: Firebrand_15
+    21300032: Firebrand_16
+    21300034: Firebrand_17
+    21300036: Firebrand_18
+    21300038: Firebrand_19
+    21300040: Firebrand_20
+    21300042: Firebrand_21
+    21300044: Firebrand_22
+    21300046: Firebrand_23
+    21300048: Firebrand_24
+    21300050: Firebrand_25
+    21300052: Firebrand_26
+    21300054: Firebrand_27
+    21300056: Firebrand_28
+    21300058: Firebrand_29
+    21300060: Firebrand_30
+    21300062: Firebrand_31
+    21300064: Firebrand_32
+    21300066: Firebrand_33
+    21300068: Firebrand_34
+    21300070: Firebrand_35
+    21300072: Firebrand_36
+    21300074: Firebrand_37
+    21300076: Firebrand_38
+    21300078: Firebrand_39
+    21300080: Firebrand_40
+    21300082: Firebrand_41
+    21300084: Firebrand_42
+    21300086: Firebrand_43
+    21300088: Firebrand_44
+    21300090: Firebrand_45
+    21300092: Firebrand_46
+    21300094: Firebrand_47
+    21300096: Firebrand_48
+    21300098: Firebrand_49
+    21300100: Firebrand_50
+    21300102: Firebrand_51
+    21300104: Firebrand_52
+    21300106: Firebrand_53
+    21300108: Firebrand_54
+    21300110: Firebrand_55
+    21300112: Firebrand_56
+    21300114: Firebrand_57
+    21300116: Firebrand_58
+    21300118: Firebrand_59
+    21300120: Firebrand_60
+    21300122: Firebrand_61
+    21300124: Firebrand_62
+    21300126: Firebrand_63
+    21300128: Firebrand_64
+    21300130: Firebrand_65
+    21300132: Firebrand_66
+    21300134: Firebrand_67
+    21300136: Firebrand_68
+    21300138: Firebrand_69
+    21300140: Firebrand_70
+    21300142: Firebrand_71
+    21300144: Firebrand_72
+    21300146: Firebrand_73
+    21300148: Firebrand_74
+    21300150: Firebrand_75
+    21300152: Firebrand_76
+    21300154: Firebrand_77
+    21300156: Firebrand_78
+    21300158: Firebrand_79
+    21300160: Firebrand_80
+    21300162: Firebrand_81
+    21300164: Firebrand_82
+    21300166: Firebrand_83
+    21300168: Firebrand_84
+    21300170: Firebrand_85
+    21300172: Firebrand_86
+    21300174: Firebrand_87
+    21300176: Firebrand_88
+    21300178: Firebrand_89
+    21300180: Firebrand_90
+    21300182: Firebrand_91
+    21300184: Firebrand_92
+    21300186: Firebrand_93
+    21300188: Firebrand_94
+    21300190: Firebrand_95
+    21300192: Firebrand_96
+    21300194: Firebrand_97
+    21300196: Firebrand_98
+    21300198: Firebrand_99
+    21300200: Firebrand_100
+    21300202: Firebrand_103
+    21300204: Firebrand_104
+    21300206: Firebrand_105
+    21300208: Firebrand_106
+    21300210: Firebrand_107
+    21300212: Firebrand_108
+    21300214: Firebrand_109
+    21300216: Firebrand_110
+    21300218: Firebrand_111
+    21300220: Firebrand_112
+    21300222: Firebrand_113
+    21300224: Firebrand_114
+    21300226: Firebrand_115
+    21300228: Firebrand_101
+    21300230: Firebrand_116
+    21300232: Firebrand_117
+    21300234: Firebrand_102
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Firebrand_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 582
+        width: 27
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 582
+        width: 27
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 582
+        width: 28
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 582
+        width: 27
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 582
+        width: 24
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 582
+        width: 29
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 582
+        width: 36
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_7
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 582
+        width: 28
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_8
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 582
+        width: 24
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_9
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 582
+        width: 24
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_10
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 582
+        width: 29
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_11
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 582
+        width: 29
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_12
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 582
+        width: 25
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_13
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 582
+        width: 30
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_14
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 582
+        width: 31
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_15
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 582
+        width: 30
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_16
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 582
+        width: 23
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_17
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 582
+        width: 34
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_18
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 582
+        width: 43
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_19
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 582
+        width: 34
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_20
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 493
+        width: 29
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_21
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 493
+        width: 36
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_22
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 493
+        width: 41
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_23
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 493
+        width: 36
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_24
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 493
+        width: 41
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_25
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 493
+        width: 31
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_26
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 493
+        width: 28
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_27
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 493
+        width: 31
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_28
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 493
+        width: 24
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_29
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 493
+        width: 34
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_30
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 493
+        width: 29
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_31
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 493
+        width: 31
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_32
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 500
+        width: 30
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_33
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 493
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_34
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 493
+        width: 31
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_35
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 493
+        width: 29
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_36
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 493
+        width: 31
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_37
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 403
+        width: 31
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_38
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 401
+        width: 46
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_39
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 402
+        width: 34
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_40
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 412
+        width: 13
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_41
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 401
+        width: 46
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_42
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 400
+        width: 47
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_43
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 398
+        width: 47
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_44
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 400
+        width: 56
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_45
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 401
+        width: 49
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_46
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 400
+        width: 32
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_47
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 402
+        width: 33
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_48
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 406
+        width: 42
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_49
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 405
+        width: 34
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_50
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 405
+        width: 30
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_51
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 401
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_52
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 311
+        width: 36
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_53
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 311
+        width: 29
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_54
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 311
+        width: 36
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_55
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 311
+        width: 39
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_56
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 311
+        width: 27
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_57
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 311
+        width: 29
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_58
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 310
+        width: 37
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_59
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 311
+        width: 38
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_60
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 311
+        width: 46
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_61
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 311
+        width: 42
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_62
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 311
+        width: 41
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_63
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 311
+        width: 40
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_64
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 270
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_65
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 260
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_66
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 260
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_67
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 263
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_68
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 260
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_69
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 260
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_70
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 252
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_71
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 245
+        width: 20
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_72
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 252
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_73
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 252
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_74
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 229
+        width: 31
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_75
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 240
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_76
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 240
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_77
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 240
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_78
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 237
+        width: 36
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_79
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 239
+        width: 28
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_80
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 228
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_81
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 228
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_82
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 228
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_83
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 228
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_84
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 220
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_85
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 220
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_86
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 217
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_87
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 220
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_88
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 220
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_89
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 210
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_90
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 145
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_91
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 122
+        width: 8
+        height: 7
+      alignment: 9
+      pivot: {x: 0.4999981, y: 0.4811881}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_92
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 121
+        width: 16
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5110798, y: 0.50968075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_93
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 122
+        width: 8
+        height: 7
+      alignment: 9
+      pivot: {x: 0.4999981, y: 0.50651443}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_94
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 121
+        width: 16
+        height: 8
+      alignment: 9
+      pivot: {x: 0.49999905, y: 0.50968075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_95
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 117
+        width: 15
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5118174, y: 0.49859953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_96
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 118
+        width: 24
+        height: 14
+      alignment: 9
+      pivot: {x: 0.49261284, y: 0.4938518}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_97
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 117
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.48891926, y: 0.48751974}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_98
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 121
+        width: 8
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49833027}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_99
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 107
+        width: 11
+        height: 36
+      alignment: 9
+      pivot: {x: 0.54804856, y: 0.4962334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_100
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 134
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_103
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 115
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5114746, y: 0.5163355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_104
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 115
+        width: 22
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5163355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_105
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 116
+        width: 31
+        height: 14
+      alignment: 9
+      pivot: {x: 0.500001, y: 0.5114174}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_106
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 111
+        width: 33
+        height: 22
+      alignment: 9
+      pivot: {x: 0.4944375, y: 0.5006884}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_107
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 111
+        width: 45
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47891933}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_108
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 114
+        width: 24
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4650833}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_109
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 120
+        width: 8
+        height: 7
+      alignment: 9
+      pivot: {x: 0.473938, y: 0.4914747}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_110
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 119
+        width: 16
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.54732513}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_111
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 110
+        width: 19
+        height: 24
+      alignment: 9
+      pivot: {x: 0.48067755, y: 0.4895614}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_112
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 110
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_113
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 110
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_114
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 99
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_115
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 117
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_101
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 96
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_116
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 109
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_117
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 114
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Firebrand_102
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 122
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

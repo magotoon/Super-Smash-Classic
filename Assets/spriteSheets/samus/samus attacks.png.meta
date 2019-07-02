@@ -1,0 +1,1152 @@
+fileFormatVersion: 2
+guid: f7d29c7cdd7d4ea49b43ca66f9980825
+timeCreated: 1552760676
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: samus attacks_0
+    21300002: samus attacks_1
+    21300004: samus attacks_2
+    21300006: samus attacks_3
+    21300008: samus attacks_4
+    21300010: samus attacks_5
+    21300012: samus attacks_6
+    21300014: samus attacks_7
+    21300016: samus attacks_8
+    21300018: samus attacks_9
+    21300020: samus attacks_10
+    21300022: samus attacks_11
+    21300024: samus attacks_12
+    21300026: samus attacks_13
+    21300028: samus attacks_14
+    21300030: samus attacks_15
+    21300032: samus attacks_16
+    21300034: samus attacks_17
+    21300036: samus attacks_18
+    21300038: samus attacks_19
+    21300040: samus attacks_20
+    21300042: samus attacks_21
+    21300044: samus attacks_22
+    21300046: samus attacks_23
+    21300048: samus attacks_24
+    21300050: samus attacks_25
+    21300052: samus attacks_26
+    21300054: samus attacks_27
+    21300056: samus attacks_28
+    21300058: samus attacks_29
+    21300060: samus attacks_30
+    21300062: samus attacks_31
+    21300064: samus attacks_32
+    21300066: samus attacks_33
+    21300068: samus attacks_34
+    21300070: samus attacks_35
+    21300072: samus attacks_36
+    21300074: samus attacks_37
+    21300076: samus attacks_38
+    21300078: samus attacks_39
+    21300080: samus attacks_40
+    21300082: samus attacks_41
+    21300084: samus attacks_42
+    21300086: samus attacks_43
+    21300088: samus attacks_44
+    21300090: samus attacks_45
+    21300092: samus attacks_46
+    21300094: samus attacks_47
+    21300096: samus attacks_48
+    21300098: samus attacks_49
+    21300100: samus attacks_50
+    21300102: samus attacks_51
+    21300104: samus attacks_52
+    21300106: samus attacks_53
+    21300108: samus attacks_54
+    21300110: samus attacks_55
+    21300112: samus attacks_56
+    21300114: samus attacks_57
+    21300116: samus attacks_58
+    21300118: samus attacks_59
+    21300120: samus attacks_60
+    21300122: samus attacks_61
+    21300124: samus attacks_62
+    21300126: samus attacks_63
+    21300128: samus attacks_64
+    21300130: samus attacks_65
+    21300132: samus attacks_66
+    21300134: samus attacks_67
+    21300136: samus attacks_68
+    21300138: samus attacks_69
+    21300140: samus attacks_70
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: samus attacks_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1117
+        width: 33
+        height: 43
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samus attacks_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1117
+        width: 40
+        height: 43
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samus attacks_2
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1117
+        width: 40
+        height: 43
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samus attacks_3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1116
+        width: 41
+        height: 43
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samus attacks_4
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1116
+        width: 40
+        height: 43
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samus attacks_5
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1112
+        width: 50
+        height: 43
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samus attacks_6
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1053
+        width: 53
+        height: 43
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samus attacks_7
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1054
+        width: 56
+        height: 43
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samus attacks_8
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1049
+        width: 83
+        height: 59
+      alignment: 9
+      pivot: {x: 0.00044452713, y: 0.080849856}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samus attacks_9
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1054
+        width: 77
+        height: 54
+      alignment: 9
+      pivot: {x: 0.009171523, y: 0.06795021}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samus attacks_10
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 965
+        width: 75
+        height: 50
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samus attacks_11
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 958
+        width: 88
+        height: 64
+      alignment: 9
+      pivot: {x: 0, y: 0.120399475}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samus attacks_12
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 871
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samus attacks_13
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 867
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samus attacks_14
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 867
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samus attacks_15
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 867
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samus attacks_16
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 867
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samus attacks_17
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 871
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samus attacks_18
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 867
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samus attacks_19
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 821
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samus attacks_20
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 817
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samus attacks_21
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 813
+        width: 22
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samus attacks_22
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 811
+        width: 30
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samus attacks_23
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 809
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samus attacks_24
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 821
+        width: 4
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samus attacks_25
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 826
+        width: 17
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samus attacks_26
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 823
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samus attacks_27
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 826
+        width: 13
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samus attacks_28
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 821
+        width: 4
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samus attacks_29
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 810
+        width: 30
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samus attacks_30
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 807
+        width: 36
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samus attacks_31
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 809
+        width: 17
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samus attacks_32
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 810
+        width: 14
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samus attacks_33
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 769
+        width: 12
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samus attacks_34
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 767
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samus attacks_35
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 760
+        width: 28
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samus attacks_36
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 759
+        width: 30
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samus attacks_37
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 759
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samus attacks_38
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 752
+        width: 46
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samus attacks_39
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 751
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samus attacks_40
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 721
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samus attacks_41
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 557
+        width: 20
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samus attacks_42
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 549
+        width: 20
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samus attacks_43
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 462
+        width: 20
+        height: 151
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samus attacks_44
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 450
+        width: 20
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samus attacks_45
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 611
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samus attacks_46
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 604
+        width: 9
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samus attacks_47
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 517
+        width: 8
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samus attacks_48
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 505
+        width: 8
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samus attacks_49
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 437
+        width: 21
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samus attacks_50
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 409
+        width: 21
+        height: 131
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samus attacks_51
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 509
+        width: 16
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samus attacks_52
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 497
+        width: 16
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samus attacks_53
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 323
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samus attacks_54
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 323
+        width: 23
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samus attacks_55
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 319
+        width: 52
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samus attacks_56
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 319
+        width: 76
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samus attacks_57
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 323
+        width: 96
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samus attacks_58
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 323
+        width: 120
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samus attacks_59
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 239
+        width: 34
+        height: 39
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samus attacks_60
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 219
+        width: 56
+        height: 52
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samus attacks_62
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 137
+        width: 73
+        height: 40
+      alignment: 9
+      pivot: {x: 0.14020862, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samus attacks_61
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 137
+        width: 44
+        height: 44
+      alignment: 9
+      pivot: {x: 0.19303991, y: 0.012369329}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samus attacks_66
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 135
+        width: 34
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samus attacks_67
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 136
+        width: 34
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samus attacks_68
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 223
+        width: 34
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samus attacks_69
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 223
+        width: 35
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samus attacks_65
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 56
+        width: 35
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samus attacks_70
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 60
+        width: 33
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samus attacks_63
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 651
+        width: 22
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samus attacks_64
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 659
+        width: 22
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

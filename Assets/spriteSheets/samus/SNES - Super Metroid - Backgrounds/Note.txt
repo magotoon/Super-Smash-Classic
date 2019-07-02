@@ -1,0 +1,6 @@
+If you don't see a background ripped, it's because of one of the reasons below:
+- The background is part of the foreground tileset: Ex. Kraid's Room
+- The background is tall and wide and I'm too lazy to rip it: Ex. Crateria Skies
+- I forgot to include in on accident
+
+If you get one of these backgrounds, send it to me and I'll include it, with credits.

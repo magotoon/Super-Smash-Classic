@@ -1,0 +1,52 @@
+number of jumps taken: 0
+Number of air attacks made: 0
+Number of ground attacks made: 2
+Amount of time airborne: 1.821782
+Match total time: 0
+
+number of jumps taken: 0
+Number of air attacks made: 0
+Number of ground attacks made: 2
+Amount of time airborne: 3.710553
+Match total time: 0
+
+number of jumps taken: 0
+Number of air attacks made: 0
+Number of ground attacks made: 2
+Amount of time airborne: 5.134928
+Match total time: 0
+
+number of jumps taken: 0
+Number of air attacks made: 0
+Number of ground attacks made: 2
+Amount of time airborne: 1.854661
+Match total time: 0
+
+number of jumps taken: 0
+Number of air attacks made: 0
+Number of ground attacks made: 2
+Amount of time airborne: 3.27961
+Match total time: 0
+
+number of jumps taken: 0
+Number of air attacks made: 0
+Number of ground attacks made: 2
+Amount of time airborne: 4.671042
+Match total time: 0
+
+playing Mario
+number of jumps taken: 162
+Number of air attacks made: 28
+Number of ground attacks made: 83
+Amount of time airborne: 27.56652
+Match total time: 0
+Peak Damage Taken: 0
+
+playing Link
+number of jumps taken: 172
+Number of air attacks made: 37
+Number of ground attacks made: 208
+Amount of time airborne: 36.97246
+Match total time: 0
+Peak Damage Taken: 0
+

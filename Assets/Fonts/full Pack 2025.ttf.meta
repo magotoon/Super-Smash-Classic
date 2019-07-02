@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: dac7e73b8a58cba4bb0c104e5b5aa642
+timeCreated: 1549215128
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Full Pack 2025
+  fontNames:
+  - Full Pack 2025
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2568 @@
+fileFormatVersion: 2
+guid: 195f7c16f5e9f764cb481a007bde89d3
+timeCreated: 1549937794
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: firebrand claw swipes_0
+    21300002: firebrand claw swipes_1
+    21300004: firebrand claw swipes_2
+    21300006: firebrand claw swipes_3
+    21300008: firebrand claw swipes_4
+    21300010: firebrand claw swipes_5
+    21300012: firebrand claw swipes_6
+    21300014: firebrand claw swipes_7
+    21300016: firebrand claw swipes_8
+    21300018: firebrand claw swipes_9
+    21300020: firebrand claw swipes_10
+    21300022: firebrand claw swipes_13
+    21300024: firebrand claw swipes_14
+    21300026: firebrand claw swipes_15
+    21300028: firebrand claw swipes_18
+    21300030: firebrand claw swipes_20
+    21300032: firebrand claw swipes_21
+    21300034: firebrand claw swipes_22
+    21300036: firebrand claw swipes_23
+    21300038: firebrand claw swipes_24
+    21300040: firebrand claw swipes_25
+    21300042: firebrand claw swipes_26
+    21300044: firebrand claw swipes_27
+    21300046: firebrand claw swipes_28
+    21300048: firebrand claw swipes_29
+    21300050: firebrand claw swipes_30
+    21300052: firebrand claw swipes_31
+    21300054: firebrand claw swipes_32
+    21300056: firebrand claw swipes_33
+    21300058: firebrand claw swipes_34
+    21300060: firebrand claw swipes_35
+    21300062: firebrand claw swipes_36
+    21300064: firebrand claw swipes_37
+    21300066: firebrand claw swipes_38
+    21300068: firebrand claw swipes_39
+    21300070: firebrand claw swipes_40
+    21300072: firebrand claw swipes_41
+    21300074: firebrand claw swipes_42
+    21300076: firebrand claw swipes_43
+    21300078: firebrand claw swipes_44
+    21300080: firebrand claw swipes_45
+    21300082: firebrand claw swipes_46
+    21300084: firebrand claw swipes_47
+    21300086: firebrand claw swipes_48
+    21300088: firebrand claw swipes_49
+    21300090: firebrand claw swipes_50
+    21300092: firebrand claw swipes_51
+    21300094: firebrand claw swipes_52
+    21300096: firebrand claw swipes_53
+    21300098: firebrand claw swipes_54
+    21300100: firebrand claw swipes_55
+    21300102: firebrand claw swipes_56
+    21300104: firebrand claw swipes_57
+    21300106: firebrand claw swipes_58
+    21300108: firebrand claw swipes_59
+    21300110: firebrand claw swipes_60
+    21300112: firebrand claw swipes_61
+    21300114: firebrand claw swipes_62
+    21300116: firebrand claw swipes_63
+    21300118: firebrand claw swipes_64
+    21300120: firebrand claw swipes_65
+    21300122: firebrand claw swipes_66
+    21300124: firebrand claw swipes_67
+    21300126: firebrand claw swipes_68
+    21300128: firebrand claw swipes_69
+    21300130: firebrand claw swipes_70
+    21300132: firebrand claw swipes_71
+    21300134: firebrand claw swipes_72
+    21300136: firebrand claw swipes_73
+    21300138: firebrand claw swipes_74
+    21300140: firebrand claw swipes_75
+    21300142: firebrand claw swipes_76
+    21300144: firebrand claw swipes_77
+    21300146: firebrand claw swipes_78
+    21300148: firebrand claw swipes_79
+    21300150: firebrand claw swipes_80
+    21300152: firebrand claw swipes_81
+    21300154: firebrand claw swipes_82
+    21300156: firebrand claw swipes_83
+    21300158: firebrand claw swipes_84
+    21300160: firebrand claw swipes_85
+    21300162: firebrand claw swipes_86
+    21300164: firebrand claw swipes_87
+    21300166: firebrand claw swipes_88
+    21300168: firebrand claw swipes_89
+    21300170: firebrand claw swipes_90
+    21300172: firebrand claw swipes_91
+    21300174: firebrand claw swipes_92
+    21300176: firebrand claw swipes_93
+    21300178: firebrand claw swipes_94
+    21300180: firebrand claw swipes_95
+    21300182: firebrand claw swipes_96
+    21300184: firebrand claw swipes_97
+    21300186: firebrand claw swipes_98
+    21300188: firebrand claw swipes_99
+    21300190: firebrand claw swipes_100
+    21300192: firebrand claw swipes_101
+    21300194: firebrand claw swipes_102
+    21300196: firebrand claw swipes_103
+    21300198: firebrand claw swipes_104
+    21300200: firebrand claw swipes_105
+    21300202: firebrand claw swipes_106
+    21300204: firebrand claw swipes_107
+    21300206: firebrand claw swipes_108
+    21300208: firebrand claw swipes_109
+    21300210: firebrand claw swipes_110
+    21300212: firebrand claw swipes_111
+    21300214: firebrand claw swipes_112
+    21300216: firebrand claw swipes_113
+    21300218: firebrand claw swipes_114
+    21300220: firebrand claw swipes_115
+    21300222: firebrand claw swipes_116
+    21300224: firebrand claw swipes_117
+    21300226: firebrand claw swipes_118
+    21300228: firebrand claw swipes_119
+    21300230: firebrand claw swipes_120
+    21300232: firebrand claw swipes_121
+    21300234: firebrand claw swipes_122
+    21300236: firebrand claw swipes_123
+    21300238: firebrand claw swipes_124
+    21300240: firebrand claw swipes_125
+    21300242: firebrand claw swipes_126
+    21300244: firebrand claw swipes_127
+    21300246: firebrand claw swipes_128
+    21300248: firebrand claw swipes_129
+    21300250: firebrand claw swipes_130
+    21300252: firebrand claw swipes_131
+    21300254: firebrand claw swipes_132
+    21300256: firebrand claw swipes_133
+    21300258: firebrand claw swipes_134
+    21300260: firebrand claw swipes_135
+    21300262: firebrand claw swipes_136
+    21300264: firebrand claw swipes_137
+    21300266: firebrand claw swipes_138
+    21300268: firebrand claw swipes_139
+    21300270: firebrand claw swipes_140
+    21300272: firebrand claw swipes_141
+    21300274: firebrand claw swipes_142
+    21300276: firebrand claw swipes_143
+    21300278: firebrand claw swipes_144
+    21300280: firebrand claw swipes_145
+    21300282: firebrand claw swipes_146
+    21300284: firebrand claw swipes_147
+    21300286: firebrand claw swipes_148
+    21300288: firebrand claw swipes_149
+    21300290: firebrand claw swipes_150
+    21300292: firebrand claw swipes_11
+    21300294: firebrand claw swipes_12
+    21300296: firebrand claw swipes_17
+    21300298: firebrand claw swipes_19
+    21300300: firebrand claw swipes_151
+    21300302: firebrand claw swipes_152
+    21300304: firebrand claw swipes_153
+    21300306: firebrand claw swipes_154
+    21300308: firebrand claw swipes_155
+    21300310: firebrand claw swipes_156
+    21300312: firebrand claw swipes_157
+    21300314: firebrand claw swipes_158
+    21300316: firebrand claw swipes_159
+    21300318: firebrand claw swipes_160
+    21300320: firebrand claw swipes_161
+    21300322: firebrand claw swipes_162
+    21300324: firebrand claw swipes_163
+    21300326: firebrand claw swipes_164
+    21300328: firebrand claw swipes_165
+    21300330: firebrand claw swipes_166
+    21300332: firebrand claw swipes_167
+    21300334: firebrand claw swipes_168
+    21300336: firebrand claw swipes_169
+    21300338: firebrand claw swipes_170
+    21300340: firebrand claw swipes_16
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: firebrand claw swipes_0
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1671
+        width: 25
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_1
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1671
+        width: 30
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_2
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1671
+        width: 31
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_3
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1671
+        width: 30
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_4
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1671
+        width: 23
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_5
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1566
+        width: 52
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_6
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1567
+        width: 66
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_7
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1567
+        width: 76
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_8
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1516
+        width: 66
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_9
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1518
+        width: 43
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_10
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1472
+        width: 71
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_11
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1473
+        width: 55
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_12
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1474
+        width: 50
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_13
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1392
+        width: 38
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_14
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1393
+        width: 37
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_17
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1272
+        width: 30
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_18
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1275
+        width: 31
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_19
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1274
+        width: 30
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_28
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1158
+        width: 27
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_29
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1157
+        width: 41
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_30
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1161
+        width: 16
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_31
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1161
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_32
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1160
+        width: 8
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_33
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1163
+        width: 6
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_34
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1169
+        width: 5
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_35
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1013
+        width: 42
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_36
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1010
+        width: 34
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_37
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1011
+        width: 30
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_38
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1042
+        width: 20
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_42
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 910
+        width: 48
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_43
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 907
+        width: 46
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_44
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 903
+        width: 41
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_45
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 801
+        width: 73
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_46
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 805
+        width: 55
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_47
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 809
+        width: 149
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_48
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 691
+        width: 61
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_49
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 701
+        width: 30
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_50
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 701
+        width: 23
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_51
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 629
+        width: 42
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_52
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 629
+        width: 33
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_53
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 629
+        width: 19
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_54
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 565
+        width: 71
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_55
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 568
+        width: 55
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_56
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 573
+        width: 50
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_57
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 580
+        width: 48
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_58
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 496
+        width: 42
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_59
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 497
+        width: 33
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_60
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 498
+        width: 19
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_61
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 346
+        width: 72
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_62
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 351
+        width: 55
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_63
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 355
+        width: 50
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_64
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 334
+        width: 51
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_65
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 250
+        width: 142
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_66
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 250
+        width: 95
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_67
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 252
+        width: 55
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_68
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 267
+        width: 48
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_69
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 158
+        width: 14
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_70
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 158
+        width: 14
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_71
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 158
+        width: 14
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_72
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 158
+        width: 14
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_73
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 171
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_74
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 158
+        width: 14
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_75
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 171
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_76
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 158
+        width: 14
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_77
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 160
+        width: 8
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_78
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 159
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_79
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 159
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_80
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 160
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_81
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 160
+        width: 5
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_82
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 160
+        width: 5
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_83
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 159
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_84
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 158
+        width: 7
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_85
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 158
+        width: 7
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_86
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 135
+        width: 5
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_87
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 135
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_88
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 134
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_89
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 135
+        width: 5
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_90
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 135
+        width: 8
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_91
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 135
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_92
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 135
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_93
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 135
+        width: 7
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_94
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 135
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_95
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 135
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_96
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 135
+        width: 5
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_97
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 135
+        width: 5
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_98
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 135
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_99
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 135
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_100
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 135
+        width: 5
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_101
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 135
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_102
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 134
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_103
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 135
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_104
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 135
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_105
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 135
+        width: 5
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_106
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 135
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_107
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 135
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_108
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 134
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_109
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 134
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_110
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 135
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_111
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 135
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_112
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 135
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_113
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 135
+        width: 8
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_114
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 135
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_115
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 135
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_116
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 135
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_117
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 119
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_118
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 119
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_119
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 119
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_120
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 119
+        width: 8
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_121
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 119
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_122
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 118
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_123
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 119
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_124
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 119
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_125
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 119
+        width: 5
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_126
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 119
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_127
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 119
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_128
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 119
+        width: 5
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_129
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 119
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_130
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 119
+        width: 8
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_131
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 119
+        width: 13
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_132
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 119
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_133
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 119
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_134
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 119
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_135
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 119
+        width: 5
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_136
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 103
+        width: 14
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_137
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 103
+        width: 5
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_138
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 103
+        width: 5
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_139
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 103
+        width: 5
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_140
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 103
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_141
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 103
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_142
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 90
+        width: 15
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_143
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 103
+        width: 15
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_144
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 103
+        width: 5
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_145
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 103
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_146
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 103
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_147
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 102
+        width: 8
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_148
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 103
+        width: 5
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_149
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 103
+        width: 5
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_150
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 103
+        width: 5
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_151
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 103
+        width: 5
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_152
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 103
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_153
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 103
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_154
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 103
+        width: 5
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_155
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 103
+        width: 5
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_156
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 103
+        width: 5
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_157
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 103
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_158
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 103
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_159
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 103
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_160
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 102
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_161
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 103
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_162
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 103
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_163
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 103
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_164
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 87
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_165
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 87
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_166
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 87
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_167
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 86
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_168
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 87
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_169
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 87
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_170
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 87
+        width: 8
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_15
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1272
+        width: 45
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_16
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1275
+        width: 40
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_20
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1213
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_21
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1158
+        width: 52
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_22
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1158
+        width: 53
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1162
+        width: 51
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: firebrand claw swipes_24
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1102
+        width: 59
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

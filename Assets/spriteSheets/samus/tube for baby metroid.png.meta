@@ -1,0 +1,1272 @@
+fileFormatVersion: 2
+guid: 09aeaf364b3085646bab3cfe435641b5
+timeCreated: 1553646658
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: tube for baby metroid_0
+    21300002: tube for baby metroid_1
+    21300004: tube for baby metroid_2
+    21300006: tube for baby metroid_3
+    21300008: tube for baby metroid_4
+    21300010: tube for baby metroid_5
+    21300012: tube for baby metroid_6
+    21300014: tube for baby metroid_7
+    21300016: tube for baby metroid_8
+    21300018: tube for baby metroid_9
+    21300020: tube for baby metroid_10
+    21300022: tube for baby metroid_11
+    21300024: tube for baby metroid_12
+    21300026: tube for baby metroid_13
+    21300028: tube for baby metroid_14
+    21300030: tube for baby metroid_15
+    21300032: tube for baby metroid_16
+    21300034: tube for baby metroid_17
+    21300036: tube for baby metroid_18
+    21300038: tube for baby metroid_19
+    21300040: tube for baby metroid_20
+    21300042: tube for baby metroid_21
+    21300044: tube for baby metroid_22
+    21300046: tube for baby metroid_23
+    21300048: tube for baby metroid_24
+    21300050: tube for baby metroid_25
+    21300052: tube for baby metroid_26
+    21300054: tube for baby metroid_27
+    21300056: tube for baby metroid_28
+    21300058: tube for baby metroid_29
+    21300060: tube for baby metroid_30
+    21300062: tube for baby metroid_31
+    21300064: tube for baby metroid_32
+    21300066: tube for baby metroid_33
+    21300068: tube for baby metroid_34
+    21300070: tube for baby metroid_35
+    21300072: tube for baby metroid_36
+    21300074: tube for baby metroid_37
+    21300076: tube for baby metroid_38
+    21300078: tube for baby metroid_39
+    21300080: tube for baby metroid_40
+    21300082: tube for baby metroid_41
+    21300084: tube for baby metroid_42
+    21300086: tube for baby metroid_43
+    21300088: tube for baby metroid_44
+    21300090: tube for baby metroid_45
+    21300092: tube for baby metroid_46
+    21300094: tube for baby metroid_47
+    21300096: tube for baby metroid_48
+    21300098: tube for baby metroid_49
+    21300100: tube for baby metroid_50
+    21300102: tube for baby metroid_51
+    21300104: tube for baby metroid_52
+    21300106: tube for baby metroid_53
+    21300108: tube for baby metroid_54
+    21300110: tube for baby metroid_55
+    21300112: tube for baby metroid_56
+    21300114: tube for baby metroid_57
+    21300116: tube for baby metroid_58
+    21300118: tube for baby metroid_59
+    21300120: tube for baby metroid_60
+    21300122: tube for baby metroid_61
+    21300124: tube for baby metroid_62
+    21300126: tube for baby metroid_63
+    21300128: tube for baby metroid_64
+    21300130: tube for baby metroid_65
+    21300132: tube for baby metroid_66
+    21300134: tube for baby metroid_67
+    21300136: tube for baby metroid_68
+    21300138: tube for baby metroid_69
+    21300140: tube for baby metroid_70
+    21300142: tube for baby metroid_71
+    21300144: tube for baby metroid_72
+    21300146: tube for baby metroid_73
+    21300148: tube for baby metroid_74
+    21300150: tube for baby metroid_75
+    21300152: tube for baby metroid_76
+    21300154: tube for baby metroid_77
+    21300156: tube for baby metroid_78
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tube for baby metroid_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 519
+        width: 256
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tube for baby metroid_1
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 551
+        width: 75
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tube for baby metroid_2
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 567
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tube for baby metroid_3
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 563
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tube for baby metroid_4
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 537
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tube for baby metroid_5
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 526
+        width: 95
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tube for baby metroid_6
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 525
+        width: 127
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tube for baby metroid_7
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 551
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tube for baby metroid_8
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 535
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tube for baby metroid_9
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 524
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tube for baby metroid_10
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 524
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tube for baby metroid_11
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 524
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tube for baby metroid_12
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 524
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tube for baby metroid_13
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 524
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tube for baby metroid_14
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 524
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tube for baby metroid_15
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 524
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tube for baby metroid_16
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 524
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tube for baby metroid_17
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 524
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tube for baby metroid_18
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 524
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tube for baby metroid_19
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 524
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tube for baby metroid_20
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 524
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tube for baby metroid_21
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 435
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tube for baby metroid_22
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 435
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tube for baby metroid_23
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 485
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tube for baby metroid_24
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 501
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tube for baby metroid_25
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 485
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tube for baby metroid_26
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 492
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tube for baby metroid_27
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 445
+        width: 149
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tube for baby metroid_28
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 444
+        width: 149
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tube for baby metroid_29
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 469
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tube for baby metroid_30
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 469
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tube for baby metroid_31
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 469
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tube for baby metroid_32
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 469
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tube for baby metroid_33
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 472
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tube for baby metroid_34
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 435
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tube for baby metroid_35
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 435
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tube for baby metroid_36
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 435
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tube for baby metroid_37
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 435
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tube for baby metroid_38
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 435
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tube for baby metroid_39
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 435
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tube for baby metroid_40
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 435
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tube for baby metroid_41
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 435
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tube for baby metroid_42
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 411
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tube for baby metroid_43
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 408
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tube for baby metroid_44
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 402
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tube for baby metroid_45
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 423
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tube for baby metroid_46
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 423
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tube for baby metroid_47
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 423
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tube for baby metroid_48
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 423
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tube for baby metroid_49
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 423
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tube for baby metroid_50
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 423
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tube for baby metroid_51
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 423
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tube for baby metroid_52
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 423
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tube for baby metroid_53
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 423
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tube for baby metroid_54
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 407
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tube for baby metroid_55
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 398
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tube for baby metroid_56
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 403
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tube for baby metroid_57
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 401
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tube for baby metroid_58
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 400
+        width: 35
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tube for baby metroid_59
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 411
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tube for baby metroid_60
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 411
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tube for baby metroid_61
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 411
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tube for baby metroid_62
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 411
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tube for baby metroid_63
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 411
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tube for baby metroid_64
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 411
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tube for baby metroid_65
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 411
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tube for baby metroid_66
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 411
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tube for baby metroid_67
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 399
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tube for baby metroid_68
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 399
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tube for baby metroid_69
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 399
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tube for baby metroid_70
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 399
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tube for baby metroid_71
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 399
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tube for baby metroid_72
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 399
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tube for baby metroid_73
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 288
+        width: 256
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tube for baby metroid_74
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 280
+        width: 256
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tube for baby metroid_75
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 281
+        width: 256
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tube for baby metroid_76
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 171
+        width: 256
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tube for baby metroid_77
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 171
+        width: 256
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tube for baby metroid_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 429
+        width: 263
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
